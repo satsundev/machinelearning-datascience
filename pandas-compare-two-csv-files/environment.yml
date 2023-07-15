@@ -1,0 +1,4 @@
+name: D:\machinelearning-datascience\pandas-compare-two-csv-files
+channels:
+  - defaults
+prefix: D:\machinelearning-datascience\pandas-compare-two-csv-files
